@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h1 align="center">Hi 👋, I'm <a href="https://LucasCicconi1704.github.io/LucasCicconi1704/" target="blank">"LucasCicconi1704"</a></h1>
 <h3 align="center">A passionate about engineering (Systems/Data/Development/DevOps) from Bs.As Argentina</h3>
 
