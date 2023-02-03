@@ -5,7 +5,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a>FullStack Web & DataAnalytics</a>
+- 🔭 I’m currently working in <a>JAVA; JS FullStack Web & DataAnalytics</a>
 
 - 🌱 I’m currently Working on Node.Js
 
