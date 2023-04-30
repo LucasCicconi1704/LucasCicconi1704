@@ -5,13 +5,15 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a>JAVA; JS FullStack Web & DataAnalytics</a>
+-  🧑‍💻 I am currently working on <a>JAVA; JS FullStack Web and Analytics/Data Science</a>
 
-- 🌱 I’m currently Working on Node.Js
+- 🌱 I’m currently Working on multiparadigm languages:
+
+     ** / Node.Js - Java - Python Libraries - docker/...**
 
 - 🤝 I’m available for a full or part time job.
 
-- 🌱 I’m currently learning DataAnalytics & also with a scholarship at Oracle
+- 🏆︎ I am a graduate of Oracle Next Education LATAM & BR program.
 
 - 📝 I regularly upload my achievements and certificates on linkedin
 
